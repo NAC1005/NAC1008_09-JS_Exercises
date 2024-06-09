@@ -7,11 +7,12 @@
 // Step 2: In the if statement, assign a value based on some condition.
         // The first value of 'smartphone' should be 'iPhone' 
         // and the second value of 'smartphone' should be 'Android'.
+let smartphone;
 if (Math.random() > 0.5) {
-    // Write your code below
+    smartphone = 'iPhone'
 
 } else {
-    // Write your code below
+    smartphone = 'Android'
 
 }
 
