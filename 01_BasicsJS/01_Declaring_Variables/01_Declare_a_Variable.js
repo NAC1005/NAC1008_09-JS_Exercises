@@ -5,8 +5,8 @@
 // Write your code below
 
 
-
-console.log(`I like: `, favoriteFruit);
+const favoriteFruit = 'Apple';
+console.log('I like: ', favoriteFruit);
 // Expected Output: I like: apple
 
 
