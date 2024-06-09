@@ -4,7 +4,7 @@
 // and assign it the value 30.
 // Write your code below
 
-
+const daysInMonth = 30
 
 console.log(`There is ${daysInMonth} days in a month.`);
 // Expected Output: There is 30 days in a month.
@@ -13,7 +13,7 @@ console.log(`There is ${daysInMonth} days in a month.`);
 // Step 2: Attempt to update the value of 'daysInMonth' to 25.
 // Write your code below
 
-
+daysInMonth = 35
 
 console.log(`There is ${daysInMonth} days in a month.`);
 // Expected Error: TypeError: Assignment to constant variable.
