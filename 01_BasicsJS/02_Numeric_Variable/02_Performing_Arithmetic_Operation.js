@@ -7,13 +7,14 @@
 // Step 2: Perform an addition operation and store the result in a variable named 'sum'.
 // Write your code below
 
-
+let numA = 15, numB = 7;
+const sum = numA + numB
 
 console.log(`The sum of numA and numB is: ${sum}`);
 // Expected Output: The sum of numA and numB is: 22
 
-
-
+numA = 16
+console.log(`The sum of numA and numB is: ${sum}`);
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 // node 01_BasicsJS/02_Numeric_Variable/02_Performing_Arithmetic_Operation.js
